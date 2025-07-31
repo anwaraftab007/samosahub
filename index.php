@@ -909,7 +909,7 @@ margin-bottom:20px;
             </div>
             <div class="blog-card-content">
               <ul class="blog-entry">
-                <li><i class="flaticon-calendar-1"></i>10 May 2021</li>
+                <li><i class="flaticon-calendar-1"></i>31 July 2025</li>
                 <li><i class="flaticon-man-user"></i>By Samosa Hub</li>
               </ul>
               <h3><a href="../blog/What-Is-The-Most-Hived-Samosa-Among-The-Teen-Agers/">What Is The Most Hived Samosa Among The Teen Agers?</a></h3>
@@ -926,7 +926,7 @@ margin-bottom:20px;
             </div>
             <div class="blog-card-content">
               <ul class="blog-entry">
-                <li><i class="flaticon-calendar-1"></i>10 May 2021</li>
+                <li><i class="flaticon-calendar-1"></i>31 July 2025</li>
                 <li><i class="flaticon-man-user"></i>By Samosa Hub</li>
               </ul>
               <h3><a href="../blog/What-Is-More-Convenient-Dine-In-Or-Take-Away/">What Is More Convenient? Dine In Or Take Away?</a></h3>
@@ -943,7 +943,7 @@ margin-bottom:20px;
             </div>
             <div class="blog-card-content">
               <ul class="blog-entry">
-                <li><i class="flaticon-calendar-1"></i>10 May 2021</li>
+                <li><i class="flaticon-calendar-1"></i>31 July 2025</li>
                 <li><i class="flaticon-man-user"></i>By Samosa Hub</li>
               </ul>
               <h3><a href="../blog/Why-Samosa-Made-So-Tasty-In-Recent-Days/">Why Samosa Made So Tasty In Recent Days?</a></h3>
