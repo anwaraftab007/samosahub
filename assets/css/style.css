@@ -4355,19 +4355,19 @@ textarea.form-control {
 }
 
 .testimonial-carousel-item .carousel-info .review-star {
-  margin-bottom: 10px
+  margin-bottom: 10px;
   padding-left:100px;
-   margin-left: 10px
+   margin-left: 10px;
 }
 
 .testimonial-carousel-item .carousel-info .carousel-name {
-  margin-bottom: 10px
-  margin-left: 30px
+  margin-bottom: 10px;
+  margin-left: 30px;
 }
 
 .testimonial-carousel-item.bg-main .carousel-para {
-  color: #fff
-   margin-left: 10px
+  color: #fff;
+   margin-left: 10px;
 }
 
 .testimonial-carousel-item.bg-main .carousel-name {
@@ -4694,7 +4694,7 @@ textarea.form-control {
 .blog-entry li i {
   margin-right: 10px;
   color: #fc0;
-  font-size: 20px
+  font-size: 20px;
   padding-left: 50px;
 }
 

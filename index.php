@@ -290,7 +290,7 @@ margin-bottom:20px;
                 style="z-index: 7;white-space: normal;font-style:normal; display: flex;align-items: center; max-width: 300px;">
                 <a href="#order" class="btn">Order Now <i class="flaticon-shopping-cart-black-shape"></i>
                 </a>
-                <p class="header-product-price color-white">₹12 </p>
+                <p class="header-product-price color-white">₹15</p>
               </div>
 
               <div class="tp-caption tp-resizeme" id="slide-1-layer-4" data-x="['right','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['87','380','370','270']" data-type="image"
@@ -349,7 +349,7 @@ margin-bottom:20px;
                 style="z-index: 7;white-space: normal;font-style:normal; display: flex;align-items: center; max-width: 300px;">
                 <a href="#order" class="btn">Order Now <i class="flaticon-shopping-cart-black-shape"></i>
                 </a>
-                <p class="header-product-price color-white">₹12 </p>
+                <p class="header-product-price color-white">₹15</p>
               </div>
 
               <div class="tp-caption tp-resizeme" id="slide-2-layer-4" data-x="['right','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['87','380','370','270']" data-type="image"
@@ -406,7 +406,7 @@ margin-bottom:20px;
                 style="z-index: 7;white-space: normal;font-style:normal; display: flex;align-items: center; max-width: 300px;">
                 <a href="#order" class="btn">Order Now <i class="flaticon-shopping-cart-black-shape"></i>
                 </a>
-                <p class="header-product-price color-white">₹12 </p>
+                <p class="header-product-price color-white">₹15</p>
               </div>
 
               <div class="tp-caption tp-resizeme" id="slide-3-layer-4" data-x="['right','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['87','380','370','270']" data-type="image"
@@ -1031,7 +1031,7 @@ margin-bottom:20px;
                   </ul>
                   <div class="footer-follow">
                     <ul class="social-list social-list-white">
-                        <li><a href="../#footer" <span style="color:#fc0">Follow Us: </a></span></li><br> <li> <a href="https://www.instagram.com/samosahubofficial/?igshid=19t1brg2rj6gk" target="_blank"><i class="flaticon-instagram-1" ></i></a></li>
+                        <li><a href="../#footer"> <span style="color:#fc0">Follow Us: </a></span></li><br> <li> <a href="https://www.instagram.com/samosahubofficial/?igshid=19t1brg2rj6gk" target="_blank"><i class="flaticon-instagram-1" ></i></a></li>
                         
                         <li><a href="https://www.facebook.com/samosahubofficial/" target="_blank"><i class="flaticon-facebook" ></i></a></li>
 
