@@ -9717,3 +9717,10 @@ textarea.form-control {
   font-size: 15px;
   margin-bottom: 0
 }
+
+
+/* External CSS */
+
+.welcome-section p{
+  text-align: justify !important;
+}
